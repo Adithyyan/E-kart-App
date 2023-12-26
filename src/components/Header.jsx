@@ -18,7 +18,7 @@ function Header() {
     <Navbar expand="lg" className=" fixed-top" style={{backgroundColor:"#5376AD"}}>
       <Container>
         <Navbar.Brand href="#home"><Link style={{textDecoration:'none', color:'white'}} to={'/'}>
-        <i class="fa-solid fa-cart-shopping fa-bounce"></i>E-CART</Link></Navbar.Brand>
+        <i class="fa-solid fa-cart-shopping fa-bounce"></i>AddNGo</Link></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">

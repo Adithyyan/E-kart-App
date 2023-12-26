@@ -11,7 +11,7 @@ function Footer() {
         <div className="website" style={{width:'400px'}}>
           <h4 className='mb-3' style={{overflowY:'hidden'}}>
           <i class="fa-solid fa-cart-shopping me-2"></i>
-                      E-CART
+                      AddNGo
           </h4>
           <h6>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae architecto harum dicta sit voluptate quisquam, pariatur tempore quae accusamus excepturi quibusdam nisi provident perspiciatis?
